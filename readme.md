@@ -1,3 +1,6 @@
+This is Ember's TodoMVC example with [Syncano](http://www.syncano.com/) as its backend.
+
+
 # Ember.js TodoMVC Example
 
 > A framework for creating ambitious web applications.
